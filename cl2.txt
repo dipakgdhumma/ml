@@ -1,0 +1,11 @@
+1 https://www.tinkercad.com/things/kAGEQZTiAbY-pr-2?sharecode=AToLPy7YKYpwdNl9WZ0mWtFTBWSgW_fSeMf6RW3NlWA
+2 https://www.tinkercad.com/things/kAGEQZTiAbY-pr-2?sharecode=AToLPy7YKYpwdNl9WZ0mWtFTBWSgW_fSeMf6RW3NlWA
+3 https://www.tinkercad.com/things/k8fOPfEApoW-pr-3?sharecode=9Qnh9RcBJE4s5iCwIMNcBOqaYETA49FUk4bnDWNJQDU
+4 https://www.tinkercad.com/things/culO7EAqLk0-pr-4?sharecode=4QdF6G8VsYqyQWTCFIYIGTl6kGF5nrlpf2KILIju_4w
+
+1 https://www.figma.com/design/W0K2weVL4P0UyZFc4p6NqG/User-Personas--Community-?node-id=0-1&t=syXcTXC34YurXxNV-1
+2 https://www.figma.com/proto/Hg1bHshyWaoSfiigMYvmds/EdTech-Platform-for-online-learning--Community-?node-id=22-111&t=SlNlvHAvsbT2wz5I-1
+   https://www.figma.com/design/9TQcx3blcKKNCskmU0ChVb/Onlineplatform?node-id=0-1&m=dev&t=673FChDV90VyeMTQ-1
+3 https://www.figma.com/design/7TbAb73ic24QoN870Y8Z1D/Recipe-Finder-App?node-id=0-1&t=zGJ5Dmf24H94jzP8-1&authuser=0
+4 https://www.figma.com/proto/oJakVqdhP8YUAwa6FJimMD/Socail-Fitness-App?node-id=1-2&p=f&t=cTwf9VUBviwbNUQb-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&authuser=0
+
